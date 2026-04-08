@@ -50,7 +50,7 @@ const NovoLandingPage = () => {
           <div className="relative w-32 h-32 mt-4">
             <div className="absolute top-0 left-0 w-full h-2 bg-[#c5934c] z-10"></div>
             <img 
-              src="/public/horse.jpg" 
+              src="/horse.jpg" 
               alt="Sculpture" 
               className="w-full h-full object-cover pt-2"
             />
@@ -65,7 +65,7 @@ const NovoLandingPage = () => {
           
           <div className="relative z-10 border-[6px] border-[#3b82f6]/0"> 
             <img 
-              src="/public/housefist.jpg" 
+              src="/housefist.jpg" 
               alt="House" 
               className="w-[850px] h-[480px] object-cover"
             />

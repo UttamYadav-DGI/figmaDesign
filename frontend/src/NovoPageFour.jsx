@@ -59,7 +59,7 @@ const NovoPageFour = () => {
 
               <div className="absolute top-0 left-0 w-full h-5 bg-[#c5934c] z-10"></div>
               <img 
-                src="/public/shadow.jpg" 
+                src="/shadow.jpg" 
                 alt="Architectural Interior" 
                 className="w-full h-[750px] object-cover pt-5 shadow-2xl"
               />

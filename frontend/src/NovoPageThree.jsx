@@ -77,7 +77,7 @@ const NovoPageThree = () => {
 
             <div className="absolute bottom-[-180px] left-[-40px] z-20 w-[550px]">
               <img 
-                src="/public/EntryGate.jpg" 
+                src="/EntryGate.jpg" 
                 alt="Modern Arch" 
                 className="w-full h-[350px] object-cover shadow-2xl border-4 border-white"
               />

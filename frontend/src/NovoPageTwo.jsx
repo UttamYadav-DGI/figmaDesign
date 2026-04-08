@@ -60,7 +60,7 @@ const NovoPageTwo = () => {
 
           <div className="relative z-10 overflow-hidden shadow-2xl border-[6px] border-[#445a67]">
             <img 
-              src="/public/housebig.jpg" 
+              src="/housebig.jpg" 
               alt="Architecture Culture" 
               className="w-full h-[550px] object-cover"
             />
